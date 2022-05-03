@@ -1,0 +1,5 @@
+names:
+- '0'
+nc: 1
+train: yolov5-3/train/images
+val: yolov5-3/valid/images
